@@ -16,9 +16,19 @@ class PostsController < ApplicationController
   end
 
   def edit
+    @group = Group.find params[:group_id]
+    @post = @group.posts.find params[:id]
   end
 
   def update
+    @group = Group.find params[:group_id]
+    @post = @group.posts.find params[:id]
+
+    if @post.update post_params
+      redirect_to group_path(@group), notice: "post updated ok"
+    else
+      render :edit
+    end
   end
 
   def destroy
