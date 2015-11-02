@@ -24,10 +24,10 @@ post  - author
 1008              (ch11 deployment) 5:50
 
 // -----------------------------------------------------------------
-
+http://courses.growthschool.com/courses/rails-101/lectures/229415
 ch1 scaffold                         | 1016,  1   hr   | 1029, 45   mins | 1102, 30 mins (cp navbar)
-ch2 create new project               | 1016, 20   mins | 1029, 15   mins | 1102,
-ch3 do basic manually                | 1016,  1   hr   | 1029, 30   mins | 1102,
+ch2 create new project               | 1016, 20   mins | 1029, 15   mins | 1102, 20 mins
+ch3 do basic manually                | 1016,  1   hr   | 1029, 30   mins | 1102, 1359-
 ch4 groups crud manually             | 1016,  1   hr   | 1029,  1.5 hr   | 1102,
 
 ch5 posts crud       1006,  2   hrs  | 1018,  2   hrs  | 1029,  1.5 hrs  |
