@@ -5,4 +5,28 @@
   </div>
   <h2><%= @group.title %></h2>
   <p><%= @group.description %></p>
-</div>
+
+
+
+    <table class="table">
+      <thead>
+        <tr>
+          <td>Post</td>
+          <td colspan="2"></td>
+        </tr>
+      </thead>
+      <tbody>
+        <% @posts.each do |post| %>
+          <tr>
+            <td><%= post.content %></td>
+            <td>
+              <%= link_to('Edit', edit_group_post_path(@group, post),
+                          class: "btn btn-default btn-xs") %>
+              <%= link_to('Delete', group_post_path(@group, post), method: :delete,
+                          data: {confirm: "Are you sure?"},
+                          class: "btn btn-default btn-xs") %>
+            </td>
+          </tr>
+        <% end %>
+      </tbody>
+    </table>
