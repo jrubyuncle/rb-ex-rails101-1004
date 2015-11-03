@@ -7,6 +7,8 @@ q. notice_message() in application_helper.rb
 redirect_to groups_path, notice: "modify group ok"
 redirect_to groups_path, alert: "討論版已刪除"
 
+q. http://courses.growthschool.com/courses/rails-101/lectures/229626
+   why after redirect_to(), the :new and :create are not called
 
 
 group - owner
@@ -69,8 +71,8 @@ ch6 [devise]       3 hr | 1103, 1 hr 45 mins |
 ch7 [join/quit group]
 
   ch7.1 []
-  ch7.2 [create join table: group_users]   1019, 1 hr   | 1030, 15 min| 1103, 1400-
-  ch7.3 [only group members can post]      1019, 1 hr   | 1030,  1 hr | 1103, 
+  ch7.2 [create join table: group_users]   1019, 1 hr   | 1030, 15 min| 1103, 20 mins
+  ch7.3 [only group members can post]      1019, 1 hr   | 1030,  1 hr | 1103, 20 mins
   ch7.4 [join/quit group]                  1019, 1 hr   | 1030, 40 min| 1103, 
   ch7.5 [group creator -> members]         1019, 10 mins| 1030,  3 min| 1103, 
   ch7.6 [groups#show, edit only for owner] 1019, 10 mins| 1030,  7 min| 1103, 
