@@ -11,6 +11,13 @@
 
 
 
+  <!-- display group members -->
+  members:[
+  <% @group.members.each do |m| %>
+    <%= m.name %>
+  <% end %>
+  ]
+
     <table class="table">
       <thead>
         <tr>

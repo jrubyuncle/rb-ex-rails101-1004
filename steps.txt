@@ -73,7 +73,7 @@ ch7 [join/quit group]
   ch7.1 []
   ch7.2 [create join table: group_users]   1019, 1 hr   | 1030, 15 min| 1103, 20 mins
   ch7.3 [only group members can post]      1019, 1 hr   | 1030,  1 hr | 1103, 20 mins
-  ch7.4 [join/quit group]                  1019, 1 hr   | 1030, 40 min| 1103, 
+  ch7.4 [join/quit group]                  1019, 1 hr   | 1030, 40 min| 1103, 1505-
   ch7.5 [group creator -> members]         1019, 10 mins| 1030,  3 min| 1103, 
   ch7.6 [groups#show, edit only for owner] 1019, 10 mins| 1030,  7 min| 1103, 
 
