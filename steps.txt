@@ -61,8 +61,8 @@ ch5 [create posts in group]
   ch5.3 [post crud]                       1 hr
 
 ch6 [devise]                              3 hr,
-  ch6.1 []                                1103, 1053-1143= 1 hr
-  ch6.2 []                                1103, 1145-
+  ch6.1 []                                1103, 1053-1143=  1 hr
+  ch6.2 []                                1103, 1145-1210= 25 mins 
   ch6.3 []
   ch6.4 []
 
