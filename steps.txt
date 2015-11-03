@@ -30,19 +30,19 @@ post  - author
 
 // -----------------------------------------------------------------
 http://courses.growthschool.com/courses/rails-101/lectures/229590
-ch1 scaffold                         | 1016,  1   hr   | 1029, 45   mins | 1102, 30 mins (cp navbar)
-ch2 create new project               | 1016, 20   mins | 1029, 15   mins | 1102, 20 mins
-ch3 do basic manually                | 1016,  1   hr   | 1029, 30   mins | 1102, 30 mins
-ch4 groups crud manually             | 1016,  1   hr   | 1029,  1.5 hr   | 1102,  1 hr   (cp form)
+ch1 scaffold                     | 1016,  1   h | 1029, 45   m | 1102, 30 m (cp) | 
+ch2 new project                  | 1016, 20   m | 1029, 15   m | 1102, 20 m      | 
+ch3 basic manually               | 1016,  1   h | 1029, 30   m | 1102, 30 m      | 
+ch4 crud manually                | 1016,  1   h | 1029,  1.5 h | 1102,  1 h (cp) | 
 
-ch5 posts crud       1006,  2   hrs  | 1018,  2   hrs  | 1029,  1.5 hrs  | 1102,  1 hr   (cp form)
-ch6 devise           1006,  3   hrs  | 1018,  3   hrs  | 1030,  3   hrs  | 1103,  1.75 hr
+ch5 posts crud     1006,  2   h  | 1018,  2   h | 1029,  1.5 h | 1102,  1 h (cp) | 
+ch6 devise         1006,  3   h  | 1018,  3   h | 1030,  3   h | 1103,  1h45m    | 
 
-ch7 join/quit group  1007,  3.5 hrs  | 1019,  3.5 hrs  | 1030,  2   hrs  | 1103,  1hr5mins
-ch8 backend          1008,  2   hrs  | 1020,  2.6 hrs  | 1030,  1.6 hrs  | 
+ch7 join/quit grp  1007,  3.5 h  | 1019,  3.5 h | 1030,  2   h | 1103,  1h5m     |
+ch8 backend        1008,  2   h  | 1020,  2.6 h | 1030,  1.6 h | 1103,  
 
-ch9 refactor         1008,  1   hr   | 1028,  1   hr   | 1102, 30   mins | 
-ch10 db:seed         1008, 40   mins | 1028,  1   hr   | 1102, 30   mins | 
+ch9 refactor       1008,  1   h  | 1028,  1   h | 1102, 30   m | 
+ch10 db:seed       1008, 40   m  | 1028,  1   h | 1102, 30   m | 
 
 ch11 deployment
 
@@ -83,7 +83,7 @@ ch7 [join/quit group]  1103, 1 hr 5 mins |
 ch8 [backend] 160 mins = 2 hrs 40 mins
 
   ch8.1 []
-  ch8.2 []  1020, 25 mins | 1030, 27 mins        | 1103,  
+  ch8.2 []  1020, 25 mins | 1030, 27 mins        | 1103,  1725-
   ch8.3 []  1020, 50 mins | 1030, 13 mins (copy) | 1103,  
   ch8.4 []  1020, 40 mins | 1030, 30 mins        | 1103,  
   ch8.5 []  1020, 10 mins | 1030,  5 mins        | 1103,  
