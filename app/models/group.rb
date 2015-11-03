@@ -5,7 +5,6 @@ class Group < ActiveRecord::Base
 
   validates :title, presence: true
 
-
   def editable_by_user?(user)
   	user && user == self.owner
   end
