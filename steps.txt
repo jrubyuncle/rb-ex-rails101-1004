@@ -69,7 +69,7 @@ ch6 [devise]       3 hr | 1103, 1 hr 45 mins |
   ch6.1 []   1103, 1053-1143 =  1 hr
   ch6.2 []   1103, 1145-1210 = 25 mins
   ch6.3 []   1103, 1222-1232 = 10 mins
-  ch6.4 []   1103, 1233-1244 = 10 mins
+  ch6.4 []   1103, 1756-
 
 ch7 [join/quit group]  1103, 1 hr 5 mins |
 
@@ -85,7 +85,7 @@ ch8 [backend] 160 mins = 2 hrs 40 mins
   ch8.1 []
   ch8.2 []  1020, 25 mins | 1030, 27 mins        | 1103, 10 m
   ch8.3 []  1020, 50 mins | 1030, 13 mins (copy) | 1103, 10 m (cp)
-  ch8.4 []  1020, 40 mins | 1030, 30 mins        | 1103,  
+  ch8.4 []  1020, 40 mins | 1030, 30 mins        | 1103,  1747
   ch8.5 []  1020, 10 mins | 1030,  5 mins        | 1103,  
   ch8.6 []  1020, 30 mins | 1030, 20 mins        | 1103, 
   ch8.7 []  1020,  5 mins | 1030, 10 mins        | 1103, 
