@@ -62,7 +62,7 @@ ch5 [create posts in group]
 
 ch6 [devise]                              3 hr,
   ch6.1 []                                1103, 1053-1143= 1 hr
-  ch6.2 []
+  ch6.2 []                                1103, 1145-
   ch6.3 []
   ch6.4 []
 
