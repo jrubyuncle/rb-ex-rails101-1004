@@ -12,4 +12,12 @@ class User < ActiveRecord::Base
   def is_member_of_group?(group)
   	participated_groups.include?(group)
   end
+
+  def join_group(group)
+  	self.participated_groups << group
+  end
+
+  def quit_group(group)
+  	self.participated_groups.delete(group)
+  end
 end
