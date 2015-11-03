@@ -38,11 +38,11 @@ ch4 groups crud manually             | 1016,  1   hr   | 1029,  1.5 hr   | 1102,
 ch5 posts crud       1006,  2   hrs  | 1018,  2   hrs  | 1029,  1.5 hrs  | 1102,  1 hr   (cp form)
 ch6 devise           1006,  3   hrs  | 1018,  3   hrs  | 1030,  3   hrs  | 1103,  1.75 hr
 
-ch7 join/quit group  1007,  3.5 hrs  | 1019,  3.5 hrs  | 1030,  2   hrs  |
-ch8 backend          1008,  2   hrs  | 1020,  2.6 hrs  | 1030,  1.6 hrs  |
+ch7 join/quit group  1007,  3.5 hrs  | 1019,  3.5 hrs  | 1030,  2   hrs  | 1103,  1hr5mins
+ch8 backend          1008,  2   hrs  | 1020,  2.6 hrs  | 1030,  1.6 hrs  | 
 
-ch9 refactor         1008,  1   hr   | 1028,  1   hr   | 1102, 30   mins |
-ch10 db:seed         1008, 40   mins | 1028,  1   hr   | 1102, 30   mins |
+ch9 refactor         1008,  1   hr   | 1028,  1   hr   | 1102, 30   mins | 
+ch10 db:seed         1008, 40   mins | 1028,  1   hr   | 1102, 30   mins | 
 
 ch11 deployment
 
@@ -71,24 +71,24 @@ ch6 [devise]       3 hr | 1103, 1 hr 45 mins |
   ch6.3 []   1103, 1222-1232 = 10 mins
   ch6.4 []   1103, 1233-1244 = 10 mins
 
-ch7 [join/quit group]
+ch7 [join/quit group]  1103, 1 hr 5 mins |
 
   ch7.1 []
   ch7.2 [create join table: group_users]   1019, 1 hr   | 1030, 15 min| 1103, 20 mins
   ch7.3 [only group members can post]      1019, 1 hr   | 1030,  1 hr | 1103, 20 mins
   ch7.4 [join/quit group]                  1019, 1 hr   | 1030, 40 min| 1103, 35 mins
   ch7.5 [group creator -> members]         1019, 10 mins| 1030,  3 min| 1103,  3 mins
-  ch7.6 [groups#show, edit only for owner] 1019, 10 mins| 1030,  7 min| 1103, 
+  ch7.6 [groups#show, edit only for owner] 1019, 10 mins| 1030,  7 min| 1103,  5 mins
 
 ch8 [backend] 160 mins = 2 hrs 40 mins
 
   ch8.1 []
-  ch8.2 []  1020, 25 mins | 1030, 27 mins
-  ch8.3 []  1020, 50 mins | 1030, 13 mins (copy)
-  ch8.4 []  1020, 40 mins | 1030, 30 mins
-  ch8.5 []  1020, 10 mins | 1030,  5 mins
-  ch8.6 []  1020, 30 mins | 1030, 20 mins
-  ch8.7 []  1020,  5 mins | 1030, 10 mins
+  ch8.2 []  1020, 25 mins | 1030, 27 mins        | 1103,  
+  ch8.3 []  1020, 50 mins | 1030, 13 mins (copy) | 1103,  
+  ch8.4 []  1020, 40 mins | 1030, 30 mins        | 1103,  
+  ch8.5 []  1020, 10 mins | 1030,  5 mins        | 1103,  
+  ch8.6 []  1020, 30 mins | 1030, 20 mins        | 1103, 
+  ch8.7 []  1020,  5 mins | 1030, 10 mins        | 1103, 
 
 ch9 [refactor]
 ch10 [db:seed]
