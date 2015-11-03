@@ -5,6 +5,7 @@ class User < ActiveRecord::Base
          :recoverable, :rememberable, :trackable, :validatable
 
   has_many :groups
+  has_many :posts
 
   has_many :group_users
   has_many :participated_groups, through: :group_users, source: :group
@@ -19,5 +20,10 @@ class User < ActiveRecord::Base
 
   def quit_group(group)
   	self.participated_groups.delete(group)
+  end
+
+  def can_edit_post?(post)
+    #true
+    post && post.author == self
   end
 end
