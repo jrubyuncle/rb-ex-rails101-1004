@@ -30,19 +30,19 @@ post  - author
 
 // -----------------------------------------------------------------
 http://courses.growthschool.com/courses/rails-101/lectures/229590
-ch1 scaffold                     | 1016,  1   h | 1029, 45   m | 1102, 30 m (cp) | 
-ch2 new project                  | 1016, 20   m | 1029, 15   m | 1102, 20 m      | 
-ch3 basic manually               | 1016,  1   h | 1029, 30   m | 1102, 30 m      | 
-ch4 crud manually                | 1016,  1   h | 1029,  1.5 h | 1102,  1 h (cp) | 
+ch1 scaffold      |               | 1016,  1   h | 1029, 45   m | 1102, 30 m (cp) | 
+ch2 new project   |               | 1016, 20   m | 1029, 15   m | 1102, 20 m      | 
+ch3 basic manually|               | 1016,  1   h | 1029, 30   m | 1102, 30 m      | 
+ch4 crud manually |               | 1016,  1   h | 1029,  1.5 h | 1102,  1 h (cp) | 
 
-ch5 posts crud     1006,  2   h  | 1018,  2   h | 1029,  1.5 h | 1102,  1h  (cp) | 
-ch6 devise         1006,  3   h  | 1018,  3   h | 1030,  3   h | 1103,  2h5m     | 
+ch5 posts crud    | 1006,  2   h  | 1018,  2   h | 1029,  1.5 h | 1102,  1h  (cp) | 
+ch6 devise        | 1006,  3   h  | 1018,  3   h | 1030,  3   h | 1103,  2h5m     | 
 
-ch7 join/quit grp  1007,  3.5 h  | 1019,  3.5 h | 1030,  2   h | 1103,  1h5m     |
-ch8 backend        1008,  2   h  | 1020,  2.6 h | 1030,  1.6 h | 1103,  1h4m     |
+ch7 join/quit grp | 1007,  3.5 h  | 1019,  3.5 h | 1030,  2   h | 1103,  1h5m     |
+ch8 backend       | 1008,  2   h  | 1020,  2.6 h | 1030,  1.6 h | 1103,  1h4m     |
 
-ch9 refactor       1008,  1   h  | 1028,  1   h | 1102, 30   m | 
-ch10 db:seed       1008, 40   m  | 1028,  1   h | 1102, 30   m | 
+ch9 refactor      | 1008,  1   h  | 1028,  1   h | 1102, 30   m | 1105,  1059-
+ch10 db:seed      | 1008, 40   m  | 1028,  1   h | 1102, 30   m | 1105,   
 
 ch11 deployment
 
