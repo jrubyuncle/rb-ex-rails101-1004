@@ -3,4 +3,6 @@ class Post < ActiveRecord::Base
   belongs_to :author, foreign_key: :user_id, class_name: 'User'
 
   validates :content, presence: true
+
+  scope :recent, -> { order("updated_at Desc") }
 end

@@ -17,7 +17,7 @@
       <% @posts.each do |post| %>
         <tr>
           <td> # </td>
-          <td> <%= link_to(post.content, group_post_path(post.group, post)) %> </td> 
+          <td> <%= link_to(truncate(post.content, length: 20), group_post_path(post.group, post)) %> </td> 
           <td> <%= post.group.title %> </td>
           <td> <%= post.updated_at.to_s(:short) %> </td>
           <td>
